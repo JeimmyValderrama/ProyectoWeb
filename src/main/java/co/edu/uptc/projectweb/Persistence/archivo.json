@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Carlos",
+    "surname": "Perez",
+    "address": "Main Street 123",
+
+    "discipline": {
+      "name": "Tenis",
+      "type": "Individual"
+    },
+
+    "events": [
+      {
+        "name": "Tennis Tournament",
+        "position": 1,
+        "date": "2024-04-01"
+      },
+
+      {
+        "name": "Another Tennis Tournament",
+        "position": 1,
+        "date": "2024-05-01"
+      },
+
+      {
+        "name": "Second Tennis Tournament",
+        "position": 3,
+        "date": "2024-05-15"
+      }
+    ]
+
+
+  },
+
+  {
+    "id": 2,
+    "name": "Ana",
+    "surname": "Gomez",
+    "address": "Central Avenue 456",
+
+    "discipline": {
+      "name": "Baloncesto",
+      "type": "Team"
+    },
+
+
+    "events": [
+      {
+        "name": "Basketball Championship",
+        "position": 2,
+        "date": "2024-06-01"
+      }
+    ]
+  }
+]
